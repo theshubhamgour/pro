@@ -1,2 +1,12 @@
-# pro
-The Author is a student of Bachelor of Science and also a YouTuber.Shubham Gour always was passionate about expressing himself through his art. His affair with writing is nothing but the specimen of his attraction towards the same. He believes in writing about simplistic happenings in and around him and tries to encompass it with his experience and his overview on things. All he believes is in HOPE which can change anything! Hold On Pain Ends.  
+# Welcome to the personal portfolio website 
+This website is created in referce to the video course provided by Angela Yu in Udemy.
+For developinhg this page we have used HTML and CSS as a primary technology!
+
+
+
+![image](https://user-images.githubusercontent.com/72512204/159441352-9f3f7a1b-808c-4606-ac81-5faa2490d1ae.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/72512204/159441473-50a2056a-e528-499b-a8dd-acbeb85292ba.png)
